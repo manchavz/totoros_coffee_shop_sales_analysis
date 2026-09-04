@@ -28,7 +28,7 @@ Because if the owner doesn't know which items or customers actually drive revenu
 
 Optimization is the diligence step that has to happen before expansion is a safe conversation or next step.
 
-## Objective
+## Business Questions
 
 **Revenue & Basket Value:**
 
