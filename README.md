@@ -1,4 +1,24 @@
-# Totoros Cafe Sales Analysis - Ad hoc
+# Totoro's Cafe Sales Analysis (Ad Hoc)
+
+## Executive Summary
+
+**The coffee isn't carrying the business**
+
+Totoro's Café generates its **highest revenue from Salad and Sandwich — not Coffee.**  
+
+* Salad alone brought in **$15,970**, nearly **2.4x more than Coffee's $6,614**, despite Coffee having more transactions (1,083 vs. 1,061).
+* Sandwich also outsold Coffee in dollars while having fewer total orders.
+
+**Why this matters:**  
+A café's identity and marketing typically center on coffee — but the data shows food items are actually the revenue engine. 
+
+This is a strategic signal to rethink menu placement, pricing, and promotional focus: *food (Salad, Sandwich, Smoothie) deserves equal or greater attention than the beverage line.*
+
+![Total Revenue by Item](./images/total_revenue_transactions_by_item.png)
+
+
+![Average Revenue by Item](./images/avg_revenue_per_transaction_by_item.png)
+
 
 ## Business Context
 
@@ -54,25 +74,6 @@ Brief narrative of methodology — cleaning, exploration, modeling/testing.
 5. Apply Predictive Analysis
 6. Write up findings and conclusions
 7. Recommendations for the stakeholder (coffee owner)
-
-## Executive Summary
-
-**The coffee isn't carrying the business**
-
-Totoro's Café generates its **highest revenue from Salad and Sandwich — not Coffee.**  
-
-* Salad alone brought in **$15,970**, nearly **2.4x more than Coffee's $6,614**, despite Coffee having more transactions (1,083 vs. 1,061).
-* Sandwich also outsold Coffee in dollars while having fewer total orders.
-
-**Why this matters:**  
-A café's identity and marketing typically center on coffee — but the data shows food items are actually the revenue engine. 
-
-This is a strategic signal to rethink menu placement, pricing, and promotional focus: *food (Salad, Sandwich, Smoothie) deserves equal or greater attention than the beverage line.*
-
-![Total Revenue by Item](./images/total_revenue_transactions_by_item.png)
-
-
-![Average Revenue by Item](./images/avg_revenue_per_transaction_by_item.png)
 
 ## Other Key Findings
 
